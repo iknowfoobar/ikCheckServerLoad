@@ -1,5 +1,8 @@
-This is a simple boolean function that checks the load of the server it is running on. The function will work out the number of processors available and then return TRUE if the 5 minute load is higher than a given percentage value.
+Copyright (c) 2010, Giles Smith
+All rights reserved.
+Full Details http://www.iknowfoobar.co.uk/licence/
 
-I use this function when performing parallel processor intensive tasks such as video encoding to make sure that I never overwork the server.
+********************************************************
 
+FULL DOCUMENTATION:
 http://www.iknowfoobar.co.uk/php/check-linux-server-load-using-php/
